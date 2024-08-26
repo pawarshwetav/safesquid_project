@@ -8,6 +8,7 @@ Installation:
 Upload the files to a Linux server.
 Make the script executable: chmod +x security_audit.sh
 (Optional) Edit config.sh for custom checks.
+
 Usage:
 
-./security_audit.sh
+    ./security_audit.sh
