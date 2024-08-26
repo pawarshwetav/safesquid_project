@@ -31,7 +31,9 @@ You can view specific sections of the dashboard by using command-line switches:
 Examples :
 
 To view only the top 10 CPU-intensive processes:
+
     ./resource_monitor.sh -cpu
 
 To display both memory and network information:
+
     ./resource_monitor.sh -memory -network
